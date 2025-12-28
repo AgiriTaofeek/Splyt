@@ -1,7 +1,7 @@
 # 🥤 SPYLT - Awward Winning Landing Page
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6951ae98-fa81-b7e4-449b-65b8/deploy-status)](https://app.netlify.com/sites/splytsplash/deploys)
-[**🚀 Live Demo**](https://splytsplash.netlify.app)
+[**🚀 Live Demo**](https://6951aee987b1cc1844218114--splytsplash.netlify.app)
 
 ![Project Banner](/public/images/Final.png)
 
