@@ -17,8 +17,8 @@ const config = defineConfig({
     }),
     tailwindcss(),
     tanstackStart(),
-    viteReact(),
     netlify(), // ← add this (anywhere in the array is fine)
+    viteReact(),
   ],
 });
 

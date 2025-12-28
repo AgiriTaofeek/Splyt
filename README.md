@@ -1,5 +1,8 @@
 # 🥤 SPYLT - Awward Winning Landing Page
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6951ae98-fa81-b7e4-449b-65b8/deploy-status)](https://app.netlify.com/sites/splytsplash/deploys)
+[**🚀 Live Demo**](https://splytsplash.netlify.app)
+
 ![Project Banner](/public/images/Final.png)
 
 > A high-performance, immersive landing page for **SPYLT** (Protein + Caffeine), featuring complex scroll-driven animations and a modern tech stack. Built to replicate "Site of the Day" quality experiences.
